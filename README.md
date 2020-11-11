@@ -1,4 +1,4 @@
-# Ngrxstore
+# Login
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
@@ -22,9 +22,12 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-What to improve
+## What to improve
 
-Used all the form fields like username and email, password using reactive form validations. Here the gap in this application we didn't made any service calls to fetch the data.
+This project is just a login page that is not calling any back-end service, this project can be
+improved in the near future.
+ngrx can be used to manage router and update the movement of the application
+
 
 ## Adding Bootstrap 4
 
